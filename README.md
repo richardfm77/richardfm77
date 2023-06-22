@@ -1,10 +1,17 @@
 <h1 align="center">Hi , I'm Ricardo Flores <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&duration=2000&pause=50&color=EBF71D&center=true&multiline=true&repeat=false&width=435&height=60&lines=Computer+Science+Student;Java+Developer" alt="Typing SVG" />
+    </a>
+</div>
+
+# <picture><img src = "https://media.giphy.com/media/l3q2XXYxkdxzjMC9G/giphy.gif" width = 150px></picture> 
+<h1 align="center">About me</h1>
 
 <br>
 
-<img align="right" alt="GIF" width = "180" src="https://media.giphy.com/media/8LnIeHllzowdbbizeO/giphy.gif" />
+<img align="right" alt="GIF" width = "350" src="https://media.giphy.com/media/3o72FaZgzzFmqoNfBm/giphy.gif" />
 
 - 💻 I am a student of computer science at the Faculty of Sciences UNAM.
 
@@ -83,19 +90,19 @@
       <h3 align="center" >Frameworks & Tools Backend</h3>
       <p align="center"> 
         <a href="https://spring.io/projects/spring-boot" >
-          <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-boot" width="70" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-boot" width="80" height="60"/>
         </a>
         &nbsp;
         <a href="https://www.mysql.com/products/workbench/" >
-          <img src="https://img.icons8.com/color/48/undefined/mysql.png" alt="mysql" width="50" height="50"/>
+          <img src="https://img.icons8.com/color/48/undefined/mysql.png" alt="mysql" width="60" height="60"/>
         </a>
         &nbsp;
         <a href="https://nodejs.org/en" pad>
-          <img src="https://img.icons8.com/color/48/undefined/nodejs.png" alt="NodeJS" width="50" height="50"/>
+          <img src="https://img.icons8.com/color/48/undefined/nodejs.png" alt="NodeJS" width="60" height="60"/>
         </a>
         &nbsp;
         <a href="https://expressjs.com/" >
-          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS" width="60" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS" width="70" height="60"/>
         </a>
       </p>
     </td>
@@ -103,7 +110,7 @@
       <h3 align="center" >Basic knowledge in Frontend</h3>
       <p align="center"> 
         <a href="#" >
-          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="80" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="90" height="60"/>
         </a>
         &nbsp;
         <a href="#" >
@@ -137,11 +144,11 @@
       <h3 align="center" >Operating Systems</h3>
       <p align="center">
         <a href="#" >
-          <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="70" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="80" height="60"/>
         </a>
         &nbsp;
         <a href="https://archlinux.org/" >
-          <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="archlinux" width="80" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" alt="archlinux" width="90" height="60"/>
         </a>
         &nbsp;
         <a href="#" >
@@ -171,7 +178,7 @@
 
 <p align="center">
   <a href="https://github.com/richardfm77">
-    <img align="center" src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt = "github" width="50" height="50"/>
+    <img align="center" src="https://img.icons8.com/color/48/undefined/github.png" alt = "github" width="50" height="50"/>
   </a>
   &nbsp;
   &nbsp;
