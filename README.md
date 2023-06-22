@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=4FE92E&center=true&multiline=true&width=435&height=60&lines=Computer+Science+Student;Java+Developer" alt="Typing SVG" /></a>
 </div>
 
-# <picture><img src = "https://media.giphy.com/media/l3q2XXYxkdxzjMC9G/giphy.gif" width = 150px></picture> 
+## <picture><img src = "https://media.giphy.com/media/l3q2XXYxkdxzjMC9G/giphy.gif" width = 150px></picture> 
 <h1 align="center">About me</h1>
 
 <br>
@@ -28,7 +28,7 @@
 
 <br>
 
-# 🛠️ My Skills
+## 🛠️ My Skills
 
 <br>
 
@@ -159,7 +159,7 @@
 
 <br>
 
-# <picture><img align="center" height="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" /></picture> GitHub Stats
+## <picture><img align="center" height="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" /></picture> GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardfm77&show_icons=true&theme=aura&count_private=true" />
@@ -172,7 +172,7 @@
 
 <br>
 
-# <picture><img align="center" height="60" src="https://logosear.ch/images/contact.svg" /></picture> Contact
+## <picture><img align="center" height="60" src="https://logosear.ch/images/contact.svg" /></picture> Contact
 
 <p align="center">
   <a href="https://github.com/richardfm77">
