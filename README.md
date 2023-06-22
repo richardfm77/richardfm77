@@ -1,9 +1,7 @@
 <h1 align="center">Hi , I'm Ricardo Flores <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&duration=2000&pause=50&color=EBF71D&center=true&multiline=true&repeat=false&width=435&height=60&lines=Computer+Science+Student;Java+Developer" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=4FE92E&center=true&multiline=true&width=435&height=60&lines=Computer+Science+Student;Java+Developer" alt="Typing SVG" /></a>
 </div>
 
 # <picture><img src = "https://media.giphy.com/media/l3q2XXYxkdxzjMC9G/giphy.gif" width = 150px></picture> 
