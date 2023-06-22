@@ -1,11 +1,5 @@
 <h1 align="center">Hi , I'm Ricardo Flores <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&duration=2000&pause=50&color=EBF71D&center=true&multiline=true&repeat=false&width=435&height=60&lines=Computer+Science+Student;Java+Developer" alt="Typing SVG" />
-    </a>
-</div>
-
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 <br>
@@ -63,7 +57,7 @@
         </a>
         &nbsp;
         <a href="https://docs.haskellstack.org/en/stable/" >
-          <img src="https://cdn.stackbuilders.com/media/images/Group_491.original.format-webp-lossless.webp" alt="stack" width="50" height="50"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Circle-icons-stack.svg/1200px-Circle-icons-stack.svg.png" alt="stack" width="50" height="50"/>
         </a>
         &nbsp;
         <a href="https://git-scm.com/" >
