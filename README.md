@@ -180,7 +180,7 @@
   </a>
   &nbsp;
   &nbsp;
-  <a href="#">
+  <a href="https://www.linkedin.com/in/ricardo-flores-mata/">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt = "linkeding" width="50" height="50" />
   </a>
   &nbsp;
