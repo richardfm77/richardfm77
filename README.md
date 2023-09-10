@@ -13,7 +13,7 @@
 
 - 💻 I am a student of computer science at the Faculty of Sciences UNAM.
 
-- 💼 I'm currently looking for work experience in java development.
+- 💼 I am currently working as a Full-Stack programmer.
 
 - 📕 I have good knowledge in discrete mathematics, probability and statistics, and I have good foundation in computer science.
 
